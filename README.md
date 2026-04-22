@@ -11,6 +11,12 @@
 
 ---
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/bbibbi0425?pet-id=1" width="1000" height="120"/>
+</a>
+
+---
+
 ## 🔍 About Me
 
 ```
@@ -51,10 +57,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-## 🐾 My Pets
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/bbibbi0425?pet-id=1" width="1000" height="120"/>
-</a>
 
