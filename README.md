@@ -3,9 +3,9 @@
 # 🐰 Kang Jimin 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bbibbi0425.github.io/kangjimin-8FC9FF?style=for-the-badge)](https://bbibbi0425.github.io/kangjimin)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-강지민-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EA%B0%95-87024635b/)
-[![Email](https://img.shields.io/badge/_Email-bbibbi0425@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbibbi0425@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bbibbi0425.github.io/kangjimin-a3d3e9?style=for-the-badge)](https://bbibbi0425.github.io/kangjimin)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-강지민-a3d595?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EA%B0%95-87024635b/)
+[![Email](https://img.shields.io/badge/_Email-bbibbi0425@gmail.com-809dce?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbibbi0425@gmail.com)
 
 </div>
 
