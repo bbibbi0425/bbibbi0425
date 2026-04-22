@@ -11,9 +11,22 @@
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/bbibbi0425?pet-id=1" width="1000" height="120"/>
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/farms/bbibbi0425" width="400px"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.gitanimals.org/">
+          <img src="https://render.gitanimals.org/guilds/834826977655465879/draw" width="400px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
