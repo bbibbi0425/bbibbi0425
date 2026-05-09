@@ -35,9 +35,10 @@
 ```
 🎓 단국대학교 소프트웨어학과
 🛡️ Digital Forensics & Incident Response (DFIR)
-📄 KCI 등재지 논문 게재 (LLM 포렌식, 1저자)
-🏆 KITRI 화이트햇스쿨 3기 수료
-🔧 Forensic 아티팩트 추출 자동화 스크립트 개발
+📄 KCI 등재지 논문 게재 (생성형AI 포렌식, 1저자)
+🏆 KITRI WHS 3기
+🏆 Baby Beavers 1기
+🔧 생성형 AI Forensic 아티팩트 추출 자동화 스크립트 개발
 ```
 
 ---
@@ -53,15 +54,27 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![DB Browser](https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### 🛡️ CERT
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C62828?style=flat-square&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-2196F3?style=flat-square&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E88E5?style=flat-square&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFCA28?style=flat-square&logoColor=black)
+![MISP](https://img.shields.io/badge/MISP-3F51B5?style=flat-square&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
 ### 🤖 AI & Data Science
-![Random Forest](https://img.shields.io/badge/Random_Forest-3C8D40?style=flat-square&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LLM Forensic](https://img.shields.io/badge/LLM_Forensic-8B5CF6?style=flat-square&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-E86A33?style=flat-square&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-### 💻 Development
+### 💻 Development & Environment
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![dfVFS](https://img.shields.io/badge/dfVFS-4B8BBE?style=flat-square&logoColor=white)
@@ -74,12 +87,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 🖥️ OS & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-### 🤝 Collaboration
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
