@@ -36,8 +36,9 @@
 🎓 단국대학교 소프트웨어학과
 🛡️ Digital Forensics & Incident Response (DFIR)
 📄 KCI 등재지 논문 게재 (생성형AI 포렌식, 1저자)
-🏆 KITRI WHS 3기
-🏆 Baby Beavers 1기
+📄 멀티모달 AI 포렌식 연구 진행 중 (Image · Video · Audio)
+🏆 KITRI WHD 3기 | 포렌식
+🏆 Baby Beavers 1기 | 클라우드 보안 CERT팀
 🔧 생성형 AI Forensic 아티팩트 추출 자동화 스크립트 개발
 ```
 
