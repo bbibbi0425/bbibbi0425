@@ -43,11 +43,3 @@
   </table>
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbibbi0425&show_icons=true&theme=nord&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbibbi0425&layout=compact&theme=nord&hide_border=true" height="160"/>
-</div>
